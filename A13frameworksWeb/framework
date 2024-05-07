@@ -1,0 +1,9 @@
+Framework tem como principal objetivo resolver problemas recorrentes com uma abordagem genérica, 
+permitindo ao desenvolvedor focar seus esforços na resolução do problema em si, e não ficar reescrevendo 
+software. Você pode se perguntar, então Framework é uma biblioteca? Bem quase isso, pode-se dizer que é
+um conjunto de bibliotecas ou componentes que são usados para criar uma base onde sua aplicação será construída.
+As frameworks ajudam no desenvolvimento rápido e seguro de aplicações mas é recomendável, estudar antes a 
+tecnologia em que a mesma é desenvolvida. Logo é importante estudar os aspectos básicos do javascript antes 
+de se aventurar em uma framework da Linguagem. Possuindo o conhecimento das tecnologias da Framework é 
+possível fazer suas própias modificações para que a framework possa atender todas as necessidades do 
+desenvolvedor.

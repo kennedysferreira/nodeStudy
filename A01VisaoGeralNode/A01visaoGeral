@@ -1,0 +1,7 @@
+E um ambiente de execusao de JS do lado do servidor.
+Foi fundado por ryan doll
+O node e um runtime de JS, que e formado por duas partes, pelo v8 que e um interpretador JS de codigo aberto
+do google, e pelo LIBUV que trata de forma asyncrona a parte de leitura de banco de dados ou acesso a um
+arquivo ( tudo que e relacionado a I/O), a ideia e que saia o mais rapido do event looping passe a sua requisiçao
+para as trads que vao de fato pegar a informaçao e sera chamado um callback e a sua resposta enviada para o 
+client.
